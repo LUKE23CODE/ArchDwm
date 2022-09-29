@@ -17,5 +17,5 @@ yay -S breeze-snow-cursor-theme
 
 ## Fonts
 ```bash 
-sudo pacman -S ttf-monofur ttf-fira-code
+sudo pacman -S ttf-monofur ttf-fira-code ttf-jetbrains-mono
 ```
