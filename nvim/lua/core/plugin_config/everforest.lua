@@ -1,1 +1,2 @@
-require("everforest").load()
+vim.o.termguicolors = true
+vim.cmd [[ colorscheme everforest ]]
